@@ -24,7 +24,6 @@ _Sorry, but this api is not currently published on pypi_
 ```python
 from pymailtm import accounts
 from pymailtm import domains
-from pymailtm import get_token
 from pymailtm.models.errors import MailTmError
 
 domains_list = domains.get()
