@@ -70,7 +70,6 @@ except MailTmError as e:
 
 ```python
 from pymailtm import messages
-from pymailtm import get_token
 
 token = 'mailtm_account_token'
 
