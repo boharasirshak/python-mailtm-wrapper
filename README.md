@@ -1,7 +1,7 @@
 # Unofficial Python mail.tm API Wrapper
 
-This is an unofficial wrapper for mail.tm API. <br>
-Since the official wrapper of python for mail.tm focuses more on real life implementation of mail.tm and less on wrapping the API, I found it difficult to use in my personal project, so I decided to make this API wrapper and make it open source for public use
+This is an unofficial wrapper for [mail.tm](https://mail.tm) API. <br>
+Since the official python wrapper of **mail.tm** focuses more on real life uses cases of **mail.tm** and less on wrapping the API, I found it uncomfortable to work with it in my personal project, so I decided to make this API wrapper and make it open source for public use.
 
 #
 
