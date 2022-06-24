@@ -6,7 +6,6 @@ Since the official python wrapper of **mail.tm** focuses more on real life uses 
 #
 
 ## Basic Usage 
-<br>
 
 ### Installation
 _Sorry, but this api is not currently published on pypi_
